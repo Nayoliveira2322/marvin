@@ -1,4 +1,4 @@
-function mostrarnome () {
+function mostrarNome () {
 console.log ("Marvin");
 }
 
