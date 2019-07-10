@@ -1,4 +1,3 @@
-function euGosto (atividade) {
-    return ("Eu gosto de ") + (atividade) 
+function nomes (nome1, nome2) {
+    return (nome1 + " e " + nome2)
 }
-
