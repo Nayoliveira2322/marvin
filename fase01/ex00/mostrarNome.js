@@ -1,6 +1,5 @@
-function mostrarnome (x) {
-console.log (x);
+function mostrarnome () {
+console.log ("Marvin");
 }
-mostrarnome ("marvin");
 
 
