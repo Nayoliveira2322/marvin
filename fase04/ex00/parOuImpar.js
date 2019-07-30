@@ -1,7 +1,7 @@
 function parOuImpar (n) {
     if (n % 2 === 0) {
-    return "par" ; 
+    return "Par" ; 
     } else {
-        return "ìmpar" ;
+        return "Ímpar" ;
     }
 }
