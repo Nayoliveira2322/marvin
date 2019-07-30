@@ -15,6 +15,6 @@ function alfabetoMilitar(l1) {
     if (l == "u") {
         return "uniform"
     }else{
-        return "false"
+        return false
     }
 }
