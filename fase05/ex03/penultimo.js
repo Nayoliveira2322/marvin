@@ -1,5 +1,5 @@
 function penultimo(array) {
-   a = array.toString()
-   b = a.slice(-2,-1)
-   return b
+   var a = array.length
+   var b = a-2
+   return array[b]
 }
