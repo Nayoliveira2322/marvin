@@ -1,3 +1,5 @@
 function penultimo(array) {
-    return array.slice(-2, -1)
+   a = array.toString()
+   b = a.slice(-2,-1)
+   return b
 }
